@@ -1,2 +1,5 @@
-# Linux-Command-Line-From-Zero-to-Expert
-Linux Command Line - From Zero to Expert, by EC-Council
+# cli-files
+Working files for the Linux Command Line course
+
+
+recluze@gmail.com 
